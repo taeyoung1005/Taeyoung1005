@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Taeyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taeyoung1005&show_icons=true&theme=radical)
+![Taeyoung's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taeyoung1005&layout=compact&theme=tokyonight)
