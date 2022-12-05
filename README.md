@@ -1,16 +1,10 @@
-<!--
-**Taeyoung1005/Taeyoung1005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Taeyoung's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taeyoung1005&layout=compact&theme=tokyonight)
-![Taeyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taeyoung1005&show_icons=true&theme=radical)
+<table style="border: none">
+    <tr>
+        <td valign="top" width="50%" style="border: none">
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Taeyoung1005&show_icons=true&locale=en&layout=compact&theme=dark" alt="Taeyoung1005" />
+        </td>
+        <td valign="top" width="50%" style="border: none">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?usernameTaeyoung1005&show_icons=true&locale=en&theme=dark" alt="Taeyoung1005" />
+        </td>
+    </tr>
+</table>
