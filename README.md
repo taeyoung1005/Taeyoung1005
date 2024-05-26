@@ -43,5 +43,5 @@
 ## 방문자 수:
 [![](https://visitcount.itsvg.in/api?id=taeyoung1005&icon=0&color=0)](https://visitcount.itsvg.in)
 
----
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=taeyoung1005&theme=dark&hide_border=false)
