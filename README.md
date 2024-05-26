@@ -1,4 +1,7 @@
-## 🌐 Socials:
+### 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=taeyoung1005&theme=dark&hide_border=false)
+
+### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tae0__0p) 
 [![Tistory](https://img.shields.io/badge/Tistory-FF5722?style=for-the-badge&logo=Tistory&logoColor=white)](https://blog.develop-book.com)
 # 💻 Tech Stack:
@@ -39,9 +42,3 @@
 ### Communication:
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-## 방문자 수:
-[![](https://visitcount.itsvg.in/api?id=taeyoung1005&icon=0&color=0)](https://visitcount.itsvg.in)
-
-### 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=taeyoung1005&theme=dark&hide_border=false)
