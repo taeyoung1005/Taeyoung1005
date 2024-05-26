@@ -1,6 +1,6 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tae0__0p) 
-
+![Tistory](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=Tistory&logoColor=white)(https://blog.develop-book.com)
 # 💻 Tech Stack:
 
 ### Frontend:
