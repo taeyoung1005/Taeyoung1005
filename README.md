@@ -4,8 +4,7 @@
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tae0__0p) 
 [![Tistory](https://img.shields.io/badge/Tistory-FF5722?style=for-the-badge&logo=Tistory&logoColor=white)](https://blog.develop-book.com)
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]
-(https://taeyoung1005.notion.site/Hi-I-m-Taeyoung-11391d320c444b5d801f47bd4b81d244)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://taeyoung1005.notion.site/Hi-I-m-Taeyoung-11391d320c444b5d801f47bd4b81d244)
 # 💻 Tech Stack:
 
 ### Frontend:
