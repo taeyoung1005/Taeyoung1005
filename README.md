@@ -1,5 +1,6 @@
 ### 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=taeyoung1005&theme=dark&hide_border=false)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taeyoung1005&theme=default)
 
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tae0__0p) 
