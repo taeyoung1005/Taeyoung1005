@@ -20,7 +20,7 @@
   ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
   <br/>
   ![Django REST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-  ![Selenium](https://camo.githubusercontent.com/a688f4f20bb6d589d74c95a86785013f7e4dfb6a29b499011ad2ecec83b4afb2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53656c656e69756d2d3433423032413f7374796c653d666f722d7468652d6261646765266c6f676f3d53656c656e69756d266c6f676f436f6c6f723d7768697465)
+  ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=Selenium&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
   <br/>
